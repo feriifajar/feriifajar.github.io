@@ -4,10 +4,9 @@ body {
 
 .wrapper {
   margin: auto;
-  width: 50%;
   margin-top: 100px;
-  background-image: url("../img/mix2.png");
-  background-size: 100%;
+  background-image: url("../img/mix2.svg");
+  background-size: contain;
 }
 
 .happy {
