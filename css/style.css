@@ -6,13 +6,15 @@ body {
   margin: auto;
   width: 50%;
   margin-top: 100px;
+  background-image: url("../img/mix2.png");
+  background-size: 100%;
 }
 
 .happy {
   font-family: 'Wendy One', sans-serif;
-  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   color: #DE6B59;
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -30,5 +32,25 @@ body {
 
 .text-blue {
   color: #56C1D9;
+}
+
+.text-cream {
+  color: #EB996E;
+}
+
+.text-blue-2 {
+  color: #72CAC3;
+}
+
+.text-purple {
+  color: #D6C4D9;
+}
+
+.text-orange {
+  color: #F2C16E;
+}
+
+.text-pink {
+  color: #EBA189;
 }
 /*# sourceMappingURL=style.css.map */
